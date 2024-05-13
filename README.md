@@ -1,5 +1,5 @@
-# Go Notebook
+# Rust Notebook
 
-Learning Go.
+Learning Rust.
 
 This is a work in progress . . .
